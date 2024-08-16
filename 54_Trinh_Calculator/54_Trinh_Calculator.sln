@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54_Trinh_Calculator", "54_Trinh_Calculator\54_Trinh_Calculator.csproj", "{491DDE37-8CD5-421B-8648-EA5F33240B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54_Trinh", "54_Trinh\54_Trinh.csproj", "{91417956-2A30-4775-AD59-814090D7DE9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{491DDE37-8CD5-421B-8648-EA5F33240B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491DDE37-8CD5-421B-8648-EA5F33240B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491DDE37-8CD5-421B-8648-EA5F33240B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491DDE37-8CD5-421B-8648-EA5F33240B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91417956-2A30-4775-AD59-814090D7DE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91417956-2A30-4775-AD59-814090D7DE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91417956-2A30-4775-AD59-814090D7DE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91417956-2A30-4775-AD59-814090D7DE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2068AF-E5E6-41CF-867B-552BE96B76B0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\54_LeThiBaoTrinh_N2_B2_Bai_1_48\54_Trinh_Calculator\54_Trinh_Calculator\bin\Debug\54_Trinh_Calculator.exe.config
+C:\Users\admin\Desktop\54_LeThiBaoTrinh_N2_B2_Bai_1_48\54_Trinh_Calculator\54_Trinh_Calculator\bin\Debug\54_Trinh_Calculator.exe
+C:\Users\admin\Desktop\54_LeThiBaoTrinh_N2_B2_Bai_1_48\54_Trinh_Calculator\54_Trinh_Calculator\bin\Debug\54_Trinh_Calculator.pdb
+C:\Users\admin\Desktop\54_LeThiBaoTrinh_N2_B2_Bai_1_48\54_Trinh_Calculator\54_Trinh_Calculator\obj\Debug\54_Trinh_Calculator.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\54_LeThiBaoTrinh_N2_B2_Bai_1_48\54_Trinh_Calculator\54_Trinh_Calculator\obj\Debug\_54_Trinh_Calculator.Form1.resources
+C:\Users\admin\Desktop\54_LeThiBaoTrinh_N2_B2_Bai_1_48\54_Trinh_Calculator\54_Trinh_Calculator\obj\Debug\_54_Trinh_Calculator.Properties.Resources.resources
+C:\Users\admin\Desktop\54_LeThiBaoTrinh_N2_B2_Bai_1_48\54_Trinh_Calculator\54_Trinh_Calculator\obj\Debug\54_Trinh_Calculator.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\54_LeThiBaoTrinh_N2_B2_Bai_1_48\54_Trinh_Calculator\54_Trinh_Calculator\obj\Debug\54_Trinh_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\54_LeThiBaoTrinh_N2_B2_Bai_1_48\54_Trinh_Calculator\54_Trinh_Calculator\obj\Debug\54_Trinh_Calculator.exe
+C:\Users\admin\Desktop\54_LeThiBaoTrinh_N2_B2_Bai_1_48\54_Trinh_Calculator\54_Trinh_Calculator\obj\Debug\54_Trinh_Calculator.pdb
