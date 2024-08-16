@@ -1,0 +1,17 @@
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\bin\Debug\selenium-manager\linux\selenium-manager
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\bin\Debug\selenium-manager\macos\selenium-manager
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\bin\Debug\54_Trinh_WebDirver.exe.config
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\bin\Debug\54_Trinh_WebDirver.exe
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\bin\Debug\54_Trinh_WebDirver.pdb
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\bin\Debug\Newtonsoft.Json.dll
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\bin\Debug\WebDriver.dll
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\bin\Debug\Newtonsoft.Json.xml
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\bin\Debug\WebDriver.xml
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\obj\Debug\54_Trinh_WebDirver.csproj.AssemblyReference.cache
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\obj\Debug\_54_Trinh_WebDirver.Form2_54_Trinh.resources
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\obj\Debug\_54_Trinh_WebDirver.Properties.Resources.resources
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\obj\Debug\54_Trinh_WebDirver.csproj.GenerateResource.cache
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\obj\Debug\54_Trinh_WebDirver.csproj.CoreCompileInputs.cache
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\obj\Debug\54_Trinh_WebDirver.exe
+D:\3rd_Year\HK2\KTPM\54_Trinh_Unit\54_Trinh_WebDirver\obj\Debug\54_Trinh_WebDirver.pdb

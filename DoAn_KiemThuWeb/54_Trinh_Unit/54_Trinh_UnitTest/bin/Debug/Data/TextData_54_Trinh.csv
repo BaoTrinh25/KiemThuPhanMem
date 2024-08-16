@@ -1,0 +1,5 @@
+﻿a,b,c,choice,expected
+3,3,5,c,True
+3,3,5,d,False
+3,3,5,v,False
+3,3,5,t,True

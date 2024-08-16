@@ -1,0 +1,10 @@
+D:\3rd_Year\HK2\KTPM\54_LeThiBaoTrinh_Unit\54_LeThiBaoTrinh_Unit\bin\Debug\54_LeThiBaoTrinh_Unit.exe.config
+D:\3rd_Year\HK2\KTPM\54_LeThiBaoTrinh_Unit\54_LeThiBaoTrinh_Unit\bin\Debug\54_LeThiBaoTrinh_Unit.exe
+D:\3rd_Year\HK2\KTPM\54_LeThiBaoTrinh_Unit\54_LeThiBaoTrinh_Unit\bin\Debug\54_LeThiBaoTrinh_Unit.pdb
+D:\3rd_Year\HK2\KTPM\54_LeThiBaoTrinh_Unit\54_LeThiBaoTrinh_Unit\obj\Debug\54_LeThiBaoTrinh_NUnit.csproj.AssemblyReference.cache
+D:\3rd_Year\HK2\KTPM\54_LeThiBaoTrinh_Unit\54_LeThiBaoTrinh_Unit\obj\Debug\_54_LeThiBaoTrinh_Unit.Form1.resources
+D:\3rd_Year\HK2\KTPM\54_LeThiBaoTrinh_Unit\54_LeThiBaoTrinh_Unit\obj\Debug\_54_LeThiBaoTrinh_Unit.Properties.Resources.resources
+D:\3rd_Year\HK2\KTPM\54_LeThiBaoTrinh_Unit\54_LeThiBaoTrinh_Unit\obj\Debug\54_LeThiBaoTrinh_NUnit.csproj.GenerateResource.cache
+D:\3rd_Year\HK2\KTPM\54_LeThiBaoTrinh_Unit\54_LeThiBaoTrinh_Unit\obj\Debug\54_LeThiBaoTrinh_NUnit.csproj.CoreCompileInputs.cache
+D:\3rd_Year\HK2\KTPM\54_LeThiBaoTrinh_Unit\54_LeThiBaoTrinh_Unit\obj\Debug\54_LeThiBaoTrinh_Unit.exe
+D:\3rd_Year\HK2\KTPM\54_LeThiBaoTrinh_Unit\54_LeThiBaoTrinh_Unit\obj\Debug\54_LeThiBaoTrinh_Unit.pdb
